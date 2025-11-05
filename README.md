@@ -1,5 +1,7 @@
-# BG-VIS
+# BG-VIS 饼干视觉
 Open source free icon library（CC-BY-4.0）
+开源免费图标库
 
-通过网盘分享的文件：BG VIS
-链接: https://pan.baidu.com/s/1F4cBhhgbMcwbCfJHMfj1Sw?pwd=5678 提取码: 5678 
+- 网盘：BG VIS
+- 链接: https://pan.baidu.com/s/1F4cBhhgbMcwbCfJHMfj1Sw?pwd=5678 
+- 提取码: 5678
