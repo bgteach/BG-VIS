@@ -9,6 +9,7 @@ BG VIS（饼干视觉），现已开源。已包含 1500+图标库，基于 CC-B
 - **协议**：CC-BY-4.0
 - **商用**：‍可商用
 - **用途**：网页设计、平面设计、UI 设计等
+- **视频**：[视频详情](https://www.bilibili.com/video/BV18q1sBPEwU/)
 
 
 BG VIS（饼干视觉-图标库）基于 CC-BY 发布，这意味着您可以免费使用，商用，但您在分发、使用时需要 BY（署名）义务。CC-BY：BG Teach（Leon Lee），BG Teach 是机构名称，Leon Lee 是作者姓名。具体链接如下：
