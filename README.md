@@ -30,3 +30,22 @@ BG VIS（饼干视觉-图标库）不仅仅是提供了一个图标，而是一�
 - BG VIS：全用途应用覆盖，设计、替换图标
 - BG VIS：双系统支持
 - BG VIS：支持参与制作共享，免费获得 Affinity 图标资产包
+
+
+### BG VIS 参与制作
+非饼干会员可通过参与 BG VIS（饼干视觉）的制作，可免费置换 Affinity 资产库（上图左侧设计用资产库）。用户只需按照视频要求制作新增一套图标库，即可免费置换。如何参与：
+
+- 新增：先确认现内容中没有的图标
+- 制作：按视频中的制作标准制作内容
+- 联系：litao@bgetach.com
+- 联系：说明新增图标的内容分类
+- 获取：审核通过发布后，免费获得 Affinity 图标资产包/1次
+- 说明：以邮箱的方式回复资产包以供下载
+
+### BG VIS 直接购买
+非饼干会员不想参与制作，想通过直接购买的方式获得 Affinity 图标资产包，您仅需要向支付 99 元（获得为期一年的资产库下载权限）。可获得全部 BG Share 的全部资产库（800 GB），包括：Blender 资产库、Affinity 资产库、AIGC 大模型资产库。：
+
+- 开通（电脑）：[BG Share](https://www.bgteach.com/cod/151.html)
+-‍ 开通（微信）：[BG Share‍](https://m.bgteach.com/webIndex.jsp#/subPages/columnDetail/columnStudyMode?id=151)
+- 获取：支付后可以通过网站的二维码进行联系，发送下载链接
+- 说明：99元/年/饼干全部资产库（800 GB+）
