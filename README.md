@@ -2,6 +2,7 @@
 Open source free icon library（CC-BY-4.0）
 开源免费图标库
 
+![](https://github.com/bgteach/BG-VIS/blob/main/BG%20VIS%20饼干视觉-图标库-664.jpg?raw=true)
 
 BG VIS（饼干视觉），现已开源。已包含 1500+图标库，基于 CC-BY 发布的创意设计开源免费图标库，包括：软件图标、硬件图标、人工智能图标、行业图标、插件图标、网站图标、产品图标、机构图标、制作公司图标、系统图标等。本套图标库支持商用、分发、再创作演绎等。
 
